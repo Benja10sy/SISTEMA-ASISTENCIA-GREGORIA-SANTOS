@@ -103,5 +103,5 @@ La app maneja los siguientes errores:
 ## 👥 CRÉDITOS
 
 Desarrollado como Producto Académico N°1  
-Curso: Desarrollo Ágil con IA Generativa  
+Curso: Construcción de Software  
 Institución de prácticas: EESPP Gregoria Santos, Sicuani  
