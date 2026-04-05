@@ -1,7 +1,7 @@
 """
 ╔══════════════════════════════════════════════════════╗
 ║   Sistema de Registro de Asistencia Estudiantil      ║
-║   EESPP Gregoria Santos - Icuani                     ║
+║   EESPP Gregoria Santos - Sicuani                    ║
 ║   Versión 2.0 - Con importación desde Excel          ║
 ╚══════════════════════════════════════════════════════╝
 """
